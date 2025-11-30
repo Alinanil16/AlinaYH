@@ -75,13 +75,7 @@ Over 9,000 rows of data → strategy insights for Gen Z credit cards
 	•	I default to cleaning datasets even when nobody asked
 
 
-### 📇 Connect with Me  
-> Let’s talk data, finance, and systems that actually work.  
-🔗 **LinkedIn:** [Alina Jiang]([https://www.linkedin.com/in/yuhanjiang16])
-
-
-
-### 🌐 Find me around the web  
+### 📇 Connect with Me    
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuhanjiang16)
 
 
