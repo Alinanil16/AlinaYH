@@ -1,6 +1,6 @@
 # Hi, I'm Alina 👋
 
-<img align="right" width="200" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" />
+<img align="right" width="200" src="https://github.com/405d799e-ac87-41f1-9f8d-e9bfc292d5e6" />
 
 
 I’m an economics student, analyst, and data storyteller who loves turning messy information into clear insights. My experience spans investment research, data analytics, financial modeling, and operational problem-solving. I’ve analyzed tech companies preparing for IPOs, built SQL-powered dashboards from scratch during an internship, and led teams in national business competitions—often with more spreadsheets open than I’d like to admit.
