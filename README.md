@@ -12,35 +12,29 @@ Outside of academics, I’ve led marketing strategy for student organizations (a
 
 # **🚀 Technologies & Tools I Enjoy**
 
-**🎯 What I’m Exploring Now**
+** What I’m Exploring Now**
 	•	Risk & operations inside financial systems
 	•	Data automation with SQL & Python
 	•	Market microstructure & real-world trading workflows
 	•	Turning complex information into intuitive stories
 
 
-# **🛠 Featured Projects**
+# ** 📑 Featured Projects**
 
-**🔍 Mortgage Market Discrimination Analysis**
+** Mortgage Market Discrimination Analysis**
 
 Econometric study using LPM, logit, and probit models
 	•	Investigates discrimination in loan approvals in the Boston mortgage market
 	•	Applies multiple models, evaluates fit, and interprets probability effects
 	•	Focus on race, income ratios, marital status, and household characteristics
 
-**🌏 Missionary Presence & Economic Development Mapping**
+** Missionary Presence & Economic Development Mapping**
 
 Historical data cleaning + geospatial visualization
 	•	Cleaned provincial-level datasets from Zhejiang, Fujian, and Anhui
 	•	Built maps visualizing missionary expansion and economic indicators
 	•	Combined history, data, and geospatial storytelling
 
-**📈 Mastercard Advisors Case Competition**
-
-Over 9,000 rows of data → strategy insights for Gen Z credit cards
-	•	Used Python + Excel pivot tables for segmentation & trend analysis
-	•	Built a final strategy deck that significantly outperformed peers
-	•	Awarded as “Best Team”
 
 # **🧠 Experience Timeline**
 
