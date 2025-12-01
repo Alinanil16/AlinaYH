@@ -12,7 +12,7 @@ Outside of academics, I’ve led marketing strategy for student organizations (a
 
 # **🚀 Technologies & Tools I Enjoy**
 
-** What I’m Exploring Now**
+**What I’m Exploring Now**
 	•	Risk & operations inside financial systems
 	•	Data automation with SQL & Python
 	•	Market microstructure & real-world trading workflows
